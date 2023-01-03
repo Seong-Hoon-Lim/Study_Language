@@ -1,0 +1,6 @@
+127.0.0.1
+root
+1
+utf8
+3330
+koreait_lib_db
